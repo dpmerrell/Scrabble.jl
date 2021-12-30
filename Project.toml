@@ -1,0 +1,7 @@
+name = "Scrabble"
+uuid = "2e4f6697-e4d9-4206-b1a4-1cd03e1474d1"
+authors = ["dpmerrell <davidpmerrell@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
